@@ -1,6 +1,6 @@
 # Tagfield Bulk Entry Tool
 
-An AutoHotkey script that automates the process of entering multiple names from your clipboard into tagfield components (i.e. multi-select input fields that create visual tags/chips for each entry). Designed and built for use in entering names/enrolling students within the Arbor MIS. 
+An AutoHotkey script that automates the process of entering multiple values from your clipboard into tagfield components (i.e. multi-select input fields that create visual tags/chips for each entry). Designed and built for use in entering names/enrolling students within the Arbor MIS. 
 
 ## 🎯 Designed For
 
